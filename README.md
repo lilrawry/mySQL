@@ -1,15 +1,17 @@
-# MySQL
-Some SQL exercises
+# MySQL Exercises
+
+![MySQL Logo](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
 ## Introduction
-This repository contains a collection of SQL exercises designed to help you practice and improve your SQL skills. SQL (Structured Query Language) is a standard language for managing and manipulating relational databases.
+Welcome to the MySQL exercises repository! This collection is designed to help you practice and enhance your SQL skills. SQL (Structured Query Language) is the standard language for managing and manipulating relational databases.
 
 ## Exercises
-The exercises cover various topics, including:
+The exercises cover a wide range of topics, including:
 - Creating and modifying tables
 - Inserting, updating, and deleting data
 - Querying data with SELECT statements
 - Using JOINs to combine data from multiple tables
+- Aggregating data
 - Aggregating data with GROUP BY and HAVING clauses
 - Using subqueries and common table expressions (CTEs)
 - Implementing transactions and handling errors
@@ -18,6 +20,8 @@ The exercises cover various topics, including:
 To get started with the exercises, you will need:
 1. A MySQL server installed on your machine or access to a MySQL server.
 2. A MySQL client or an integrated development environment (IDE) that supports MySQL.
+
+![Setup MySQL](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
 
 ## How to Use
 1. Clone this repository to your local machine.
@@ -31,3 +35,5 @@ If you have any suggestions or improvements, feel free to open an issue or submi
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 Happy coding!
+
+![Happy Coding](https://www.mysql.com/common/logos/logo-mysql-170x115.png)
